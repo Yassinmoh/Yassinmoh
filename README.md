@@ -3,7 +3,7 @@
 
 
 <h1 style="text-align:center">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=4DD421&lines=Hey!+I'm+Yassin;Passionate+MERN+Stack;And+WordPress+Developer" alt="yassinmoh" />
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=4DD421&lines=Hey!+I'm+Yassin;MERN+Stack;And+WordPress" alt="yassinmoh" />
         </h1>
 
  -   <p align="left">
