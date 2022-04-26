@@ -187,7 +187,7 @@
     
     <img align="center"
             src="https://activity-graph.herokuapp.com/graph?username=Yassinmoh&bg_color=000000&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true"
-            alt="yassinmoh" width="80%" margin="auto" />
+            alt="yassinmoh" width="100%" margin="auto" />
 
 
 
