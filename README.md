@@ -164,7 +164,7 @@
             alt="yassinmoh"  />
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&locale=en&layout=compact&theme=dark"
-            alt="yassinmoh" width="35%" margin="auto" />
+            alt="yassinmoh" width="45%" margin="auto" />
         <img
             src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp"
             alt="yassinmoh"   />
