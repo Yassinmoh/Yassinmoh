@@ -30,7 +30,7 @@
     </div>
 
 -    <h2 align="left">Connect with me:</h2>
-  -  <p align="left">
+  -  <p style="display:flex">
       <a href="https://www.linkedin.com/in/yassin-mohamed-957662169/" target="blank"><img
                 align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
