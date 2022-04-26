@@ -3,8 +3,8 @@
 
 
 <h1 style="text-align:center">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?color=F77A11&lines=Hey!+I'm+Yassin;Passionate+MERN+Stack+Developer;And+WordPress+Developer"            alt="yassinmoh" />
-      </h1>
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=4DD421&lines=Hey!+I'm+Yassin;Passionate+MERN+Stack;And+WordPress+Developer" alt="yassinmoh" />
+        </h1>
 
  -   <p align="left">
         <img src="https://komarev.com/ghpvc/?username=yassinmoh&label=Profile%20views&color=0e75b6&style=flat"
@@ -158,6 +158,7 @@
     </p>
 
 -    <p>
+      <div class="state" style="margin-left:10rem">
         <img 
             src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp"
             alt="yassinmoh"  />
@@ -167,7 +168,7 @@
         <img
             src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/right.webp"
             alt="yassinmoh"   />
-
+</div>
     
 
 
