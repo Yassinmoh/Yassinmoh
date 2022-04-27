@@ -16,7 +16,7 @@
             <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="34%" />
         </div>
         <div>
-        <h5>💻 I am a self taught Full Stack Developer and a E-commerce Developer</h5>
+        <h5>💻 I am a self taught Full Stack Developer and E-commerce Developer</h5>
         <h5>📚 I have a Deploma in Web Development from the Information Technology Institute(ITI)</h5>
         <h5>📝 I have a strong interest in Data Science and Artificial Intelligence</h5>
         <h5>🔭 Working on Deep Learning & Machine Learning</h5>
