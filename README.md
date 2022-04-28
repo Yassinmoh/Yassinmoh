@@ -2,18 +2,37 @@
  
 
 
-<h1 style="text-align:center">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&color=4DD421&lines=Hey!+I'm+Yassin;MERN+Stack;And+WordPress" alt="yassinmoh" />
+<h1 align="center">
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=4DD421&lines=Hey!+I'm+Yassin;MERN+Stack;And+WordPress" alt="yassinmoh" />
         </h1>
 
- -   <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=yassinmoh&label=Profile%20views&color=0e75b6&style=flat"
-            alt="yassinmoh" />
-    
+
+<p align="center">
+    <img 
+         src="https://komarev.com/ghpvc/?username=yassinmoh&label=Profile%20views&color=brightgreen&style=for-the-badge" 
+         alt="mhsmustafa84"
+    />
+</p>
+<p align="center">
+    <img
+        src="https://badges.pufler.dev/years/yassinmoh?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://badges.pufler.dev/repos/yassinmoh?style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+    <img
+        src="https://img.shields.io/github/followers/yassinmoh?color=brightgreen&style=for-the-badge"
+        alt="mhsmustafa84"
+    />
+</p>
+
+   -  <hr>
 
   <div>
         <div>
-            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="34%" />
+            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="40%" />
         </div>
         <div>
         <h5>💻 I am a self taught Full Stack Developer and E-commerce Developer</h5>
@@ -29,24 +48,27 @@
     </div>
     </div>
 
--    <h2 align="left">Connect with me:</h2>
-  -  <p style="display:flex">
-      <a href="https://www.linkedin.com/in/yassin-mohamed-957662169/" target="blank"><img
+-    <h2 align="center">Connect with me:</h2>
+  -  <p display="flex" align="center">
+ <span align="center">
+      <a href="https://www.linkedin.com/in/yassin-mohamed-957662169/" target="blank" align="center"><img
                 align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="https://www.linkedin.com/in/yassin-mohamed-957662169/" height="30" width="40" />
         </a>
-
-       <a href="https://stackoverflow.com/users/17715540/yassin-mo" target="blank"><img
+ </span>
+ <span align="center">
+       <a href="https://stackoverflow.com/users/17715540/yassin-mo" target="blank" align="center"><img
                 align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
                 alt="https://stackoverflow.com/users/17715540/yassin-mo" height="30" width="40" />
         </a>
+  </span>
     </p>
 
- -   <h2 align="left">Languages and Tools:</h2>
+ -   <h2 align="center">Languages and Tools:</h2>
 
--    <p align="left">
+-    <p align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
             <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
                 height="40" />
@@ -100,7 +122,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
         </a>
-  <br>
+  
         <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"
                 alt="karma" width="40" height="40" />
@@ -155,10 +177,10 @@
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
         </a>
-    </p>
+    
 
 -    <p>
-      <div class="state" style="margin-left:10rem">
+      <div class="state" align="center">
         <img 
             src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp"
             alt="yassinmoh"  />
@@ -172,7 +194,7 @@
     
 
 
-  -  <p>
+  -  <p align="center">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh" width="45%" />
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=yassinmoh&show_icons=true&locale=en&theme=dark"
