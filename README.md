@@ -10,21 +10,21 @@
 <p align="center">
     <img 
          src="https://komarev.com/ghpvc/?username=yassinmoh&label=Profile%20views&color=brightgreen&style=for-the-badge" 
-         alt="mhsmustafa84"
+         alt="yassinmoh"
     />
 </p>
 <p align="center">
     <img
         src="https://badges.pufler.dev/years/yassinmoh?style=for-the-badge"
-        alt="mhsmustafa84"
+        alt="yassinmoh"
     />
     <img
         src="https://badges.pufler.dev/repos/yassinmoh?style=for-the-badge"
-        alt="mhsmustafa84"
+        alt="yassinmoh"
     />
     <img
         src="https://img.shields.io/github/followers/yassinmoh?color=brightgreen&style=for-the-badge"
-        alt="mhsmustafa84"
+        alt="yassinmoh"
     />
 </p>
 
