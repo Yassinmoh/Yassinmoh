@@ -32,7 +32,7 @@
 
   <div>
         <div>
-            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="40%" />
+            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="35%" />
         </div>
         <div>
         <h5>💻 I am a self taught Full Stack Developer and E-commerce Developer</h5>
