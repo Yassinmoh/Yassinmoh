@@ -202,8 +202,13 @@
     
     
 
-
-    
+## <h2 align="center"> Watch my contributions get eaten by a snake 🐍</h2>
+ <div align="center">
+  
+  <img align="center"
+            src="https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg"
+            alt="yassinmoh" />
+  </div>
 
  -  <p align="centre">
     
