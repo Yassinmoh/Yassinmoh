@@ -30,12 +30,12 @@
 
    -  <hr>
 
-  <div>
-<!--         <div>
-            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I  didn't find the author of the pic, feel to open a pull request if found" width="35%" />
-        </div> -->
         <div>
-        <h5>💻 I am a self taught Full Stack Developer and E-commerce Developer</h5>
+        <div>
+            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="34%" />
+        </div>
+        <div>
+        <h5>💻 I am a self taught Full Stack Developer and a E-commerce Developer</h5>
         <h5>📚 I have a Deploma in Web Development from the Information Technology Institute(ITI)</h5>
         <h5>📝 I have a strong interest in Data Science and Artificial Intelligence</h5>
         <h5>🔭 Working on Deep Learning & Machine Learning</h5>
@@ -45,11 +45,10 @@
         <h5>💖 Interested in React.js ,Node.js ,Express.js ,MongoDB</h5>
         <h5>🎵 Love metal, lofi, jazz and soft music</h5>
         <h5>💬 Ask me about anything, I love to answer!</h5>
-    </div>
-    </div>
 
--    <h2 align="center">Connect with me:</h2>
-  -  <p display="flex" align="center">
+
+      <h2 align="center">Connect with me:</h2>
+      <p display="flex" align="center">
  <span align="center">
       <a href="https://www.linkedin.com/in/yassin-mohamed-957662169/" target="blank" align="center"><img
                 align="center"
@@ -66,7 +65,7 @@
   </span>
     </p>
 
- -   <h2 align="center">Languages and Tools:</h2>
+ .   <h2 align="center">Languages and Tools:</h2>
 
 -    <p align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
