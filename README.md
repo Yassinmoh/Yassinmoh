@@ -32,7 +32,7 @@
 
         <div>
         <div>
-            <img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="34%" />
+
         </div>
         <div>
         <h5>💻 I am a self taught Full Stack Developer and a E-commerce Developer</h5>
@@ -45,8 +45,8 @@
         <h5>💖 Interested in React.js ,Node.js ,Express.js ,MongoDB</h5>
         <h5>🎵 Love metal, lofi, jazz and soft music</h5>
         <h5>💬 Ask me about anything, I love to answer!</h5>
-
-
+</div>
+ </div>
       <h2 align="center">Connect with me:</h2>
       <p display="flex" align="center">
  <span align="center">
