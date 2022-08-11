@@ -12,13 +12,8 @@
          src="https://komarev.com/ghpvc/?username=yassinmoh&label=Profile%20views&color=brightgreen&style=for-the-badge" 
          alt="yassinmoh"
     />
-</p>
-<p align="center">
+ 
 
-    <img
-        src="https://img.shields.io/github/followers/yassinmoh?color=brightgreen&style=for-the-badge"
-        alt="yassinmoh"
-    />
 </p>
 
    -  <hr>
