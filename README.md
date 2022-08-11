@@ -14,14 +14,7 @@
     />
 </p>
 <p align="center">
-    <img
-        src="https://badges.pufler.dev/years/yassinmoh?style=for-the-badge"
-        alt="yassinmoh"
-    />
-    <img
-        src="https://badges.pufler.dev/repos/yassinmoh?style=for-the-badge"
-        alt="yassinmoh"
-    />
+
     <img
         src="https://img.shields.io/github/followers/yassinmoh?color=brightgreen&style=for-the-badge"
         alt="yassinmoh"
