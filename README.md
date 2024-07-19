@@ -121,19 +121,19 @@
 
 <hr>
 
-<div align="center">
-    <div align="">
-        <img src="https://github-readme-stats.vercel.app/api?username=yassinmoh&show_icons=true&theme=dark" alt="yassinmoh stats"  height="150" width="100%" />
-    </div>
-    <div align="">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh streak"  height="150" width="100%" />
-    </div>
-    <div align="">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&theme=dark&layout=compact" alt="yassinmoh top languages"  height="150" width="100%" />
-    </div>
+<div class="state" align="center">
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&locale=en&layout=compact&theme=dark"
+            alt="yassinmoh" width="45%" margin="auto" />
 </div>
+   <p align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh" width="45%" />
+        <img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=yassinmoh&show_icons=true&locale=en&theme=dark"
+            alt="yassinmoh" width="45%"/>
 
 <hr>
+## <h2 align="center"> Watch my contributions get eaten by a snake 🐍</h2>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
