@@ -121,18 +121,11 @@
 
 <hr>
 
-<p align="center">
-    <a href="https://github.com/yassinmoh">
-        <img src="https://github-readme-stats.vercel.app/api?username=yassinmoh&show_icons=true&theme=dark" alt="yassinmoh stats" width="48%" />
-    </a>
-    <a href="https://github.com/yassinmoh">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh streak" width="48%" />
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&theme=dark&layout=compact" alt="yassinmoh top languages" width="50%" />
-</p>
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=yassinmoh&show_icons=true&theme=dark" alt="yassinmoh stats"  height="150" width="50%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh streak"  height="150" width="50%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&theme=dark&layout=compact" alt="yassinmoh top languages"  height="150" width="50%" />
+</div>
 
 <hr>
 
