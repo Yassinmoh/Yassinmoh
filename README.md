@@ -122,13 +122,13 @@
 <hr>
 
 <div align="center">
-    <div align="center">
+    <div align="">
         <img src="https://github-readme-stats.vercel.app/api?username=yassinmoh&show_icons=true&theme=dark" alt="yassinmoh stats"  height="150" width="100%" />
     </div>
-    <div align="center">
+    <div align="">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh streak"  height="150" width="100%" />
     </div>
-    <div align="center">
+    <div align="">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&theme=dark&layout=compact" alt="yassinmoh top languages"  height="150" width="100%" />
     </div>
 </div>
