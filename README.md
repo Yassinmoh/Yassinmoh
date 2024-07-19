@@ -130,7 +130,6 @@
              <img
             src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&locale=en&layout=compact&theme=dark"
             alt="yassinmoh" width="50%" height="150px" />
-            </p>
 
 <hr>
 ## <h2 align="center"> Watch my contributions get eaten by a snake 🐍</h2>
