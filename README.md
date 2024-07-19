@@ -124,13 +124,13 @@
 <div class="state" align="center">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinmoh&show_icons=true&locale=en&layout=compact&theme=dark"
-            alt="yassinmoh" width="45%" margin="auto" />
+            alt="yassinmoh" width="45%" height="150px" margin="auto" />
 </div>
    <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh" width="45%" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmoh&theme=dark" alt="yassinmoh"  height="150px" width="45%" />
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=yassinmoh&show_icons=true&locale=en&theme=dark"
-            alt="yassinmoh" width="45%"/>
+            alt="yassinmoh" height="150px" width="45%"/>
 
 <hr>
 ## <h2 align="center"> Watch my contributions get eaten by a snake 🐍</h2>
