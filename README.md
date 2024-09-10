@@ -32,7 +32,8 @@
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+<div style="display:flex;align-items:center;">
+     <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
@@ -66,7 +67,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  /> 
+</div>
+
 
 <hr>
 
