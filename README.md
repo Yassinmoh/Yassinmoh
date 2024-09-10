@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Heroku" height="30" alt="Heroku logo"  />
+  <img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
