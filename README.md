@@ -32,7 +32,7 @@
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
-<div style="display:flex;align-items:center;">
+<div style="display:flex;align-items:center;justify-content:center;">
   <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -76,6 +76,46 @@
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="30" alt="pnpm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="30" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="30" alt="yarn logo"  />
 </div>
 
 
