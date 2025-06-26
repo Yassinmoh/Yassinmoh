@@ -9,17 +9,31 @@
 <hr>
 
 <div>
-    <h5>💻 I am a self-taught Full Stack Developer and an E-commerce Developer</h5>
-    <h5>📚 I have a Diploma in Web Development from the Information Technology Institute (ITI)</h5>
-    <h5>📝 I have a strong interest in Data Science and Artificial Intelligence</h5>
-    <h5>🔭 Working on Deep Learning & Machine Learning</h5>
-    <h5>🌱 Learning about Computer Vision and new technologies</h5>
-    <h5>🌟 Main languages: JavaScript</h5>
-    <h5>🚩 Interested in MERN Stack development</h5>
-    <h5>💖 Interested in React.js, Node.js, Express.js, MongoDB</h5>
-    <h5>🎵 Love metal, lofi, jazz, and soft music</h5>
-    <h5>💬 Ask me about anything, I love to answer!</h5>
+
+  <h3>🎨 Front-End Developer by passion — Engineer by mindset!</h3>
+
+  <h4>🚀 I specialize in <strong>Angular</strong> development with a deep love for <strong>animations</strong>, <strong>parallax</strong> effects, and <strong>GSAP</strong> magic.</h4>
+
+  <h4>✨ I craft interfaces that *feel alive* — smooth, interactive, and fun to use.</h4>
+
+  <h4>🧠 Focused on building immersive web experiences that users *actually enjoy*.</h4>
+
+  <h4>🤖 I’m also an <strong>AI researcher</strong> exploring how artificial intelligence can improve user experiences and front-end workflows.</h4>
+
+  <h4>💻 My stack is JavaScript-heavy: <strong>Angular</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, and <strong>MongoDB</strong>.</h4>
+
+  <h4>🔍 Currently diving into computer vision, generative AI, and smart UI automation.</h4>
+
+  <h4>🌍 I believe code isn’t just logic — it’s creativity, expression, and a touch of art.</h4>
+
+  <h4>⚡ I'm obsessed with tiny UI details — because little things make big impressions.</h4>
+
+  <h4>🙌 Always open to new challenges, fresh ideas, and deep tech conversations.</h4>
+
+  <h4>💬 Ask me anything about Angular, AI, GSAP, or how to make your UI unforgettable 🚀</h4>
+
 </div>
+
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
